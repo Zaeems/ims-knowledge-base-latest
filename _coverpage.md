@@ -4,11 +4,13 @@
 
 > Everything you need to know
 
-- Centralise your business operations, legal and regulatory requirements all in one system
-- Use the system on a day to day basis. Manage your assets, risks, incidents, suppliers and documentation to improve your business operations and reduce costs preparing for audits
-- Introduce new ISO standards to your organisation using our Toolkit Modules.
-- Conduct Internal Audits to ensure controls and processes are working. Identify Risks and Opportunities For Improvement.
-- Grant access to Certification Bodies, allow them to conduct and coordinate your Certification Audits.
+**Centralise your business operations**
+
+1. Centralise your business operations, legal and regulatory requirements all in one system
+2. Use the system on a day to day basis. Manage your assets, risks, incidents, suppliers and documentation to improve your business operations and reduce costs preparing for audits
+3. Introduce new ISO standards to your organisation using our Toolkit Modules.
+4. Conduct Internal Audits to ensure controls and processes are working. Identify Risks and Opportunities For Improvement.
+5. Grant access to Certification Bodies, allow them to conduct and coordinate your Certification Audits.
 
 
 [Get Started](intro)
