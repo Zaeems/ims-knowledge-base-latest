@@ -274,8 +274,8 @@
 
 [ResetPassword]: ./General%20Information/new_user#changing-your-password
 [RiskEscalate]: ./General%20Information/Modules/Risk%20Management/adding_risks#escalating-a-risk
-[IncEscalate]: ./General%20Information/Modules/Incident%20Management/raising_incidents#escalating-an-incident
-[IncResTime]: ./General%20Information/Modules/Our%20IMS/system_defaults#incident-resolution
+[IncEscalate]: ./General%20Information/Modules/Incident%20Management/incident_management#escalating-an-incident
+[IncResTime]: ./General%20Information/Modules/Our%20IMS/our_ims#incident-resolution
 [CalEvent]: ./General%20Information/Modules/Calendar/add_calendar#adding-an-event
 [TaskCompelete]: ./General%20Information/Modules/Task%20Manager/add_task#modifying-a-task
 [Supp]: ./General%20Information/Modules/Supplier%20Management/add_supplier
@@ -287,8 +287,8 @@
 [Complaints]: ./General%20Information/Modules/CQC/Complaints
 [CQC]: ./General%20Information/Modules/CQC/CQC
 [OFIcreate]: ./General%20Information/Modules/Continual%20Improvement/add_ofi
-[PushNotif]: ./General%20Information/Modules/Our%20IMS/system_defaults#push-notifications
-[Licences]: ./General%20Information/Modules/Our%20IMS/license_management#request--requested
+[PushNotif]: ./General%20Information/Modules/Our%20IMS/our_ims#push-notifications
+[Licences]: ./General%20Information/Modules/Our%20IMS/our_ims#request-requested
 [UserBU]: ./intro#add-a-user-to-a-business-unit
 [Dashboard]: ./General%20Information/Modules/dashboard
-[Priority]: ./General%20Information/Modules/Incident%20Management/raising_incidents#raising-an-incident
+[Priority]: ./General%20Information/Modules/Incident%20Management/incident_management#raising-an-incident

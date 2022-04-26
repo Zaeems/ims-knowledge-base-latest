@@ -13,7 +13,7 @@
 * [Audits](/General%20Information/Modules/Audits/add_audit)
 * [Management Reviews](/General%20Information/Modules/Management%20Reviews/management_review)
 * [Continual Improvement](/General%20Information/Modules/Continual%20Improvement/add_ofi)
-* [CQC](/General%20Information/Modules/CQC/cqc)
+* [CQC](/General%20Information/Modules/CQC/CQC)
 * [Compliance](/General%20Information/Modules/Compliance/controls)
 * [CRM](/General%20Information/Modules/CRM/add_cus)
 * [Supplier Management](/General%20Information/Modules/Supplier%20Management/add_supplier)
