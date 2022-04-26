@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [Product Updates](/)
+* [Product Updates](/#v244)
 * [Configuration](intro)
 * [User Information and Accessibility](info)
 * [Roles & Permissions](permission)
 * [FAQs](faq)
-* [General Information](/General%20Information/readme)
+* [General Information](/General%20Information/README)
