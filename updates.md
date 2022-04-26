@@ -44,6 +44,9 @@
 - Dashboard
 	- Current date is shown on the dashboard
 
+### Changed
+- Verification email now lasts 24 hours before expiring.
+
 ## v2.4.1
 
 ### Added
@@ -59,7 +62,7 @@
 - Supplier Management
     - Comments and Filters have been added to Suppliers
 - Licence Management
-    - Licence Management, allocation and revoking of licences has been reworked. Basic Users and Heads of Service are now combined into User Licences, and User Licences are expended once per user, as opposed to previous once per user per business unit
+    - Licence Management, **allocation and revoking of licences has been reworked**. Basic Users and Heads of Service are now combined into User Licences, and User Licences are expended once per user, as opposed to previous once per user per business unit
 - Tables
     - Columns can now be resized. Currently does not save across pages and reloads.
 - Date format
@@ -183,7 +186,7 @@ TL;DR
 - Massive rework to Our IMS - most only relevant if you're an Admin or Head of Service
 - Some sweet QoL changes site-wide
 - New icons for the sidebar and graphs for the dashboard!
-- Profile Pics - You can add 'em...
+- Profile Pics
 - Brand new module - CQC!
 - New security features
 
@@ -208,15 +211,15 @@ If you can be bothered to read, here's all the changes:
 
 #### Our IMS
 - Business Units
-	- Reworked the creation process of Business Units and Users to be significantly easier <sub>I hope.</sub>
-	- You can now create Internal and External functions in the same form, less clicks!
+	- Reworked the creation process of Business Units and Users to be significantly easier
+	- You can now create Internal and External functions in the same form
 	- You can now adjust the level of access to specific modules, including read/write limitations. Do this using the new Access Policies
 	- **NEW**: Grant toolkit access to each Business Unit as a whole, this was previously done on a per-user basis
 	- **NEW**: When adding a user to a Business Unit you can now see the number of licences remaining for each user-type
 - Users
-	- *MOVED*: From "User Access" - Users to "Our IMS" - Users.
-	- **NEW**: Email verification is now in place; users must verify their email before they can be granted access by an admin!
-		- Verification links last for an hour, so be quick or you'll have an annoyed admin...
+	- *MOVED*: From `"User Access" - Users` to `"Our IMS" - Users`.
+	- **NEW**: Email verification is now in place; users must verify their email before they can be granted access by an admin
+		- Verification links last for an hour
 - **NEW**: Access Policies
 	- You can now create and customise Access Policies, which allows admins to have control over what Business Units can access, and what they can do with what they are given access to!
 - Licence Management
@@ -226,11 +229,11 @@ If you can be bothered to read, here's all the changes:
 		- the licences assigned to various units within your organisation
 		- the number of licences remaining
 	- **NEW** Requests tab
-		- HoS users can now request licences from Admins if they need more!
-		- HoS users can now request toolkit access from Admins if they didnt have it before!
-		- Admins can now request for more licences from iMS!
+		- HoS users can now request licences from Admins if they need more
+		- HoS users can now request toolkit access from Admins if they don't already have them
+		- Admins can now request more licences from iMS
 - **NEW**: System Defaults
-	- System Dates, Incident Resolution and Report Intervals have been moved to a new submenu, System Defaults
+	- *MOVED*: System Dates, Incident Resolution and Report Intervals have been moved to a new submenu, System Defaults
 	- **NEW**: Push Notification has been added to System Defaults, use this to send notifications to the entire Organisation
 - ~~REMOVED~~: Our IMS (submenu)
 	- The submenu "Our IMS" has been removed, with the previous functionality implemented into the Internal and External function tabs
@@ -240,7 +243,7 @@ If you can be bothered to read, here's all the changes:
 
 #### Risk Management
 - **NEW**: Colour-coding based on risk score
-- **NEW**: Now tracks initial and current risk scores, feel free to change them up!
+- **NEW**: Now tracks initial and current risk scores
 
 #### Incident Management
 - **NEW**: Colour-coding based on priority level
@@ -268,19 +271,19 @@ If you can be bothered to read, here's all the changes:
 - Adjusted layout and styling to be more user-friendly
 
 #### Document Management
-- **NEW**: Added "Confidentiality" selection to the form
-- Now tracks *who* uploaded a new version of a file
+- **NEW**: Added "Confidentiality" selection to form
+- Now tracks who uploaded a new version of a file
 - Adjusted layout and styling to be more user-friendly
 
 #### Task Manager
-- **NEW** You are now able to preview a task before accepting it, click the eye icon!
-- You can no longer delete a completed task. Sorry~
-- Clicking `Update` should no longer send the task back to requests... probably...
+- **NEW** You are now able to preview a task before accepting it by clicking the eye icon
+- You can no longer delete a completed task.
+- Clicking `Update` no longer sends the task back to the `Requests` tab
 
 #### Calendar
 - Admins can no longer snoop on your personal events!
 
 #### Profile
-- **NEW**: You can now upload your "professional" profile pictures!
+- **NEW**: You can now upload profile pictures
 - Fixed the ability to change your name and bio
-- You can't look at other peoples salaries... unless you're their manager.
+- You can no longer look at other peoples salaries unless you're their manager.
