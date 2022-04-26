@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-* [Home](/)
+* [Home](/#v244)
 * [Tutorial](/intro)
 * [FAQs](/faq)
 * [General Information](/General%20Information/readme)
