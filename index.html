@@ -34,11 +34,19 @@
     @media (prefers-color-scheme: light) {
         .app-name-link img {
             content: var(--docsify_logo_url,url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Light_Mode.svg'));
-        }} 
+        }
+        nav {
+          background-color: #283339;
+        }
+      } 
     @media (prefers-color-scheme: dark) {
         .app-name-link img {
             content: var(--docsify_logo_url,url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Dark_Mode.svg'));
-        }} 
+        }
+        nav {
+          background-color: #fff;
+        }
+      } 
     @media screen and (max-width: 436px) { 
         .app-nav>ul>li:not(:first-child):not(:nth-child(2)):not(:nth-child(3)) {
           display: none;
