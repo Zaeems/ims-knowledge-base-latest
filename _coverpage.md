@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-# iMS Knowledge Base <small>v1.5</small>
+# iMS Knowledge Base <small>v2.5</small>
 
-> Everything you need to know
+> Everything you need for easier management
 
 **Centralise your business operations**
 
