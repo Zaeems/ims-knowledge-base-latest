@@ -45,7 +45,7 @@
 	- Current date is shown on the dashboard
 
 ### Changed
-- Verification email now lasts 24 hours before expiring.
+- Verification email now lasts 7 days before expiring.
 
 ## v2.4.1
 
