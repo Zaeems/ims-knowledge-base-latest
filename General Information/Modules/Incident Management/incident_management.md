@@ -116,4 +116,4 @@ This page shows a list of incidents that have been escalated.
 Clicking on the eye icon will allow you to view more information related to the incident - this includes the date of escalation and who escalated the incident.
 
 [Incidents]: #managing-incidents
-[Our IMS - Resolution Times]: ../Our%20IMS/system_defaults#incident-resolution "Incident Resolution Times"
+[Our IMS - Resolution Times]: ../Our%20IMS/our_ims#incident-resolution "Incident Resolution Times"

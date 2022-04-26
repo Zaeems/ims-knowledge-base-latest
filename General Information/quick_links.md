@@ -151,4 +151,4 @@ Note that there is an up to 5-minute delay between information being uploaded an
 [Change Password]: ./new_user#changing-your-password "New User Change Password"
 [Forgot Password]: ./new_user?id=changing-your-password
 [Log Out]: ./new_user#logging-out
-[Profile]: ./new_user#profile
+[Profile]: ./new_user#profile-wip

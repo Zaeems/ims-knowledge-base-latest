@@ -56,8 +56,8 @@ For each `Customer`, you can `Modify` or `Delete` each entry in the `CRM` module
 When modifying a customer, you can make three different modifications:
 
 + [Amending Customer Details](#amending-customer-details)
-+ [Managing Invoices\*][Invoice]
-+ [Managing Incidents\*][Inc]
++ [Managing Invoices][Invoice]*
++ [Managing Incidents][Inc]*
 
 \**Only `Live` customers have these features.*
 
