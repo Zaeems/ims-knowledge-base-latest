@@ -14,4 +14,4 @@
 
 
 [Get Started](intro)
-[Process Flowcharts](https://https://knowledge-base.imssystems.tech/assets/files/All%20Flowcharts-1d43e4a3273d753a5f45ed4568d637cb.pdf)
+[Process Flowcharts](https://knowledge-base.imssystems.tech/assets/files/All%20Flowcharts-1d43e4a3273d753a5f45ed4568d637cb.pdf)
