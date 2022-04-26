@@ -1,0 +1,84 @@
+
+
+@media (prefers-color-scheme: light) {
+    .app-name-link img {
+      content: var(--docsify_logo_url,url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Light_Mode.svg'));
+    }
+} 
+
+@media (prefers-color-scheme: dark) {
+    .app-name-link img {
+      content: var(--docsify_logo_url,url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Dark_Mode.svg'));
+    }
+} 
+
+@media screen and (max-width: 436px) { 
+    .app-nav>ul>li:not(:first-child):not(:nth-child(2)):not(:nth-child(3)) {
+      display: none;
+    }
+    #docsify-darklight-theme {
+      position: fixed;
+      right: 15px;
+      top: 75px;
+    }
+} 
+
+@media screen and (max-width: 540px) {
+    .app-nav>ul>li:not(:first-child):not(:nth-child(2)):not(:nth-child(3)):not(:nth-child(4)) {
+      display: none;
+    }
+    #docsify-darklight-theme {
+      position: fixed;
+      right: 15px;
+      top: 75px;
+    }
+} 
+
+@media screen and (max-width: 623px) {
+    .app-nav>ul>li:not(:first-child):not(:nth-child(2)):not(:nth-child(3)):not(:nth-child(4)):not(:nth-child(5)) {
+      display: none;
+    }
+    #docsify-darklight-theme {
+      position: fixed;
+      right: 15px;
+      top: 75px;
+    }
+} 
+
+@media screen and (max-width: 724px) {
+    .app-nav>ul>li:not(:first-child):not(:nth-child(2)):not(:nth-child(3)):not(:nth-child(4)):not(:nth-child(5)):not(:nth-child(6)) {
+      display: none;
+    }
+    #docsify-darklight-theme {
+      position: fixed;
+      right: 15px;
+      top: 75px;
+    }
+} 
+
+@media screen and (max-width: 767px) {
+    #docsify-darklight-theme {
+      position: fixed;
+      right: 15px;
+      top: 75px;
+    }
+}
+
+/* end of media queries */ 
+.app-name-link img {
+  height:  3rem;
+}
+
+#docsify-darklight-theme {
+  position: fixed;
+  right: 40px;
+  top: 75px;
+}
+
+td {
+  vertical-align: top;
+}
+
+#unauth {
+  font-size: xx-large;
+}
