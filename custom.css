@@ -82,3 +82,7 @@ td {
 #unauth {
   font-size: xx-large;
 }
+
+ol {
+    text-align: left;
+}
