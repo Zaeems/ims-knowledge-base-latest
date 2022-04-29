@@ -100,7 +100,16 @@
     }
 }
 
-
+@media screen and (min-width: 768px) {
+    nav {
+      display: inline-flex;
+      padding-right: 15px;
+      padding-left: 15px;
+    }
+    .app-nav {
+      left: 100%;
+    }
+}
 
 /* end of media queries */ 
 .app-name-link img {
@@ -125,12 +134,3 @@ ol {
     text-align: left;
 }
 
-nav {
-    display: inline-flex;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-.app-nav {
-    left: 100%;
-}
