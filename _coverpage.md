@@ -14,4 +14,6 @@
 
 
 [Tutorial](intro)
-[Process Flowcharts](https://knowledge-base.imssystems.tech/assets/files/All%20Flowcharts-1d43e4a3273d753a5f45ed4568d637cb.pdf)
+<a target="\_blank" href='/_pdf/All%20Flowcharts.pdf'> 
+Process Flowcharts
+</a>
