@@ -1,3 +1,7 @@
+<p><a target="\_blank" href='/_pdf/Our%20IMS.pdf'>
+View Flowchart
+</a></p>
+
 ---
 
 # Business Units

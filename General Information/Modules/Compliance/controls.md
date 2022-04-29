@@ -1,3 +1,9 @@
+<p><a target="\_blank" href='/_pdf/Compliance.pdf'> 
+View Flowchart
+</a></p>
+
+---
+
 ### Getting Started
 
 Get started by navigating to the relevant toolkit using the sidebar that you want to make changes to, the following toolkits are available:

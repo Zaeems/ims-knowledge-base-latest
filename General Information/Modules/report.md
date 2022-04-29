@@ -1,3 +1,9 @@
+<p><a target="\_blank" href='/_pdf/Report%20an%20Issue.pdf'> 
+View Flowchart
+</a></p>
+
+---
+
 You can easily report an issue, bug, feature request or suggestions using the built-in ticket creation form.
 
 To access the form, navigate to the bottom of the `Sidebar` and click on `Report an Issue`.

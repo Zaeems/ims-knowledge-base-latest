@@ -1,4 +1,10 @@
+<p><a target="\_blank" href='/_pdf/Task%20Manager.pdf'>
+View Flowchart
+</a></p>
+
 <iframe src="https://www.youtube-nocookie.com/embed/r3lhX3h3Cys?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+
+---
 
 ### Getting Started
 

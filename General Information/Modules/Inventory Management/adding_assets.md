@@ -1,6 +1,12 @@
-## Adding Assets
+<p><a target="\_blank" href='/_pdf/Inventory%20Management.pdf'>
+View Flowchart
+</a></p>
 
 <iframe src="https://www.youtube-nocookie.com/embed/HzL1dcRxmt8?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+
+---
+
+## Adding Assets
 
 ### Getting Started
 
