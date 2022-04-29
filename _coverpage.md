@@ -13,5 +13,5 @@
 5. Grant access to Certification Bodies, allow them to conduct and coordinate your Certification Audits.
 
 
-[Get Started](intro)
+[Tutorial](intro)
 [Process Flowcharts](https://knowledge-base.imssystems.tech/assets/files/All%20Flowcharts-1d43e4a3273d753a5f45ed4568d637cb.pdf)
