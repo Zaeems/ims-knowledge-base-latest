@@ -124,3 +124,13 @@ td {
 ol {
     text-align: left;
 }
+
+nav {
+    display: inline-flex;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.app-nav {
+    left: 100%;
+}
