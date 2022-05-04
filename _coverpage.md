@@ -1,6 +1,8 @@
 <!-- _coverpage.md -->
 
-# iMS Knowledge Base <small>v2.5</small>
+ <img src="/_media/iMS_Dark_Mode.svg" alt="banner_lootopian" width="350" />
+
+# Knowledge Base <small>v2.5</small>
 
 > Everything you need for easier management
 

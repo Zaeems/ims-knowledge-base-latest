@@ -2277,7 +2277,7 @@ body .sidebar {
 
 nav {
     position: sticky !important;
-    top: 0 !important;
+    top: -1px !important;
     padding-right: 45px;
     background-color: #f7f7f7;
 }

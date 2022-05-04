@@ -122,6 +122,11 @@
     top: 75px;
 }
 
+.app-nav ul {
+    overflow: hidden;
+    max-height:  27.2px;
+}
+
 td {
     vertical-align: top;
 }
