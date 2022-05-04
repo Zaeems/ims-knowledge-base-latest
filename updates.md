@@ -1,4 +1,4 @@
-<img class="version" src="/_media/ims-v.svg" alt="version" />
+<!-- <img class="version" src="/_media/ims-v.svg" alt="version" /> -->
 
 ## V2.5.2
 
