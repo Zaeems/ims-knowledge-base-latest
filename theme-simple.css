@@ -2275,6 +2275,7 @@ body .sidebar {
     --sidebar-toggle-width: 32px
 }
 
+/* style navbar */
 nav {
     position: sticky !important;
     top: -1px !important;

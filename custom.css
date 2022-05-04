@@ -1,103 +1,16 @@
+/* switch logos if light mode */
 @media (prefers-color-scheme: light) {
-    .app-name-link img {
+    .app-name-link img, .cover-main img {
         content: var(--docsify_logo_url, url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Light_Mode.svg'));
     }
 }
-
+/* switch logos if dark mode */
 @media (prefers-color-scheme: dark) {
-    .app-name-link img {
+    .app-name-link img, .cover-main img {
         content: var(--docsify_logo_url, url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Dark_Mode.svg'));
     }
 }
-
-@media screen and (max-width: 165px) {
-    .app-nav>ul>li:not(: first-child) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (max-width: 225px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (max-width: 391px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)):not(: nth-child(3)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (max-width: 495px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)):not(: nth-child(3)):not(: nth-child(4)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (max-width: 578px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)):not(: nth-child(3)):not(: nth-child(4)):not(: nth-child(5)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (max-width: 679px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)):not(: nth-child(3)):not(: nth-child(4)):not(: nth-child(5)):not(: nth-child(6)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (min-width: 768px) and (max-width: 850px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)):not(: nth-child(3)):not(: nth-child(4)):not(: nth-child(5)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
-@media screen and (min-width: 851px) and (max-width: 951px) {
-    .app-nav>ul>li:not(: first-child):not(: nth-child(2)):not(: nth-child(3)):not(: nth-child(4)):not(: nth-child(5)):not(: nth-child(6)) {
-        display: none;
-    }
-    #docsify-darklight-theme {
-        position: fixed;
-        right: 15px;
-        top: 75px;
-    }
-}
-
+/* navbar styling on larger screens */
 @media screen and (min-width: 768px) {
     nav {
         display: inline-flex;
@@ -108,33 +21,33 @@
         left: 100%;
     }
 }
-
-
 /* end of media queries */
 
+/* makes sidebar logo smaller */
 .app-name-link img {
     height: 3rem;
 }
 
+/* positions light/dark mode switch */
 #docsify-darklight-theme {
     position: fixed;
-    right: 40px;
-    top: 75px;
+    right: 1vw;
+    top: 8vh;
+    z-index: 20;
 }
 
+/* prevents navbar from spilling */
 .app-nav ul {
     overflow: hidden;
     max-height:  27.2px;
 }
 
+/* style table */
 td {
     vertical-align: top;
 }
 
-#unauth {
-    font-size: xx-large;
-}
-
+/* style list */
 ol {
     text-align: left;
 }
