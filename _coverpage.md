@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
- <img src="/_media/iMS_Dark_Mode.svg" alt="banner_lootopian" width="350" />
+ <img class="logo" src="/_media/iMS_Dark_Mode.svg" alt="logo" width="350" />
 
 # Knowledge Base <small>v2.5</small>
 

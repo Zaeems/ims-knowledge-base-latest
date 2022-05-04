@@ -1,3 +1,43 @@
+<img class="version" src="/_media/ims-v.svg" alt="version" />
+
+## V2.5.2
+
+### Added
+
+- Dashboard
+	- You can now navigate to relevant modules by clicking them from the dashboard
+
+## V2.5.1
+
+### Added
+
+- Task manager updates
+	- You can now assign a single task to multiple users
+	- You can now assign a task to the entire Business Unit
+	- You can now prioritise tasks
+
+## V2.4.6
+
+### Fixed
+
+- Notification system
+	- Pagination was not working properly and read-only notifications were bugged
+
+## V2.4.5
+
+### Added
+
+- Compliance
+	- ISO14001 is now available
+
+### Changed
+
+- Audit
+	- You can now score the risks you are raising
+- Password invalidation
+	- You can attempt 5 log-ins before your account is locked for 1 hour
+	- Verification emails can no longer be spammed
+
 ## V2.4.4
 
 ### Added

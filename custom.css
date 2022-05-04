@@ -1,12 +1,12 @@
 /* switch logos if light mode */
 @media (prefers-color-scheme: light) {
-    .app-name-link img, .cover-main img {
+    .app-name-link img, .logo {
         content: var(--docsify_logo_url, url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Light_Mode.svg'));
     }
 }
 /* switch logos if dark mode */
 @media (prefers-color-scheme: dark) {
-    .app-name-link img, .cover-main img {
+    .app-name-link img, .logo {
         content: var(--docsify_logo_url, url('https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Dark_Mode.svg'));
     }
 }
@@ -32,7 +32,7 @@
 #docsify-darklight-theme {
     position: fixed;
     right: 1vw;
-    top: 8vh;
+    top: 30px;
     z-index: 20;
 }
 
@@ -50,4 +50,12 @@ td {
 /* style list */
 ol {
     text-align: left;
+}
+
+.logo {
+  margin-top: 28px;
+}
+
+.sidebar-toggle-button {
+  margin-top: 28px;
 }
