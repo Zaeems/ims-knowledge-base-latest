@@ -4,8 +4,15 @@
 
 ### Added
 
+- CRM
+	- CRM has been added to `Licence Management` and `Access Policies`
+
 - Dashboard
 	- You can now navigate to relevant modules by clicking them from the dashboard
+	- Title truncation added in task manager analytics
+
+- Miscellaneous
+	- Custom access policies had a bug with tool allocation
 
 ## V2.5.1
 
