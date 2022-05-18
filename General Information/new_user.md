@@ -4,6 +4,13 @@ Upon being granted access either by iMS or your organisation, you will receive a
 
 ## Logging In
 
+<p><a target="\_blank" href='/_pdf/Portals.pdf'> 
+View Flowchart
+</a></p>
+
+---
+
+
 <iframe src="https://www.youtube-nocookie.com/embed/9xyhqlusJmA?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 You will need to access your organisation's [iMS System](https://portals.imssystems.tech), you will have received the `Organisation name` during your onboarding process. You will need to log in to the website using the login details found in the email. 
