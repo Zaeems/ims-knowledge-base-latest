@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="/theme-simple-dark.css" title="dark"/>
     <link rel="stylesheet" href="/custom.css"/>
   </head>
+  <div data-app id="main">Please wait...</div>
   <body>
     <div id="app">
       <!-- app -->
@@ -26,7 +27,7 @@
           nameLink: "#/", auto2top: true, autoHeader: true,
           loadSidebar: true, loadNavbar: true, coverpage:true,
           maxLevel: 4, subMaxLevel: 2,
-          homepage: "/updates.md", relativePath: true,
+          homepage: "/updates.md", relativePath: true, el: '#main',
           themeable: { readyTransition: true, responsiveTables: true, },
           darklightTheme: 
           {
