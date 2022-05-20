@@ -32,6 +32,24 @@ IMS Partner
 
 + This user only has visibility of the functions for which they are responsible, these responsibilities can be assigned in the related Business Unit.
 
+## Digital Maturity
+
+Digital Maturity is a metric which determines how digital your organisation is. This is a key factor in ensuring you have a successful digital transformation. With iMS Systems, we use algorithms to determine just how Digital your organisation truly is. As soon as you adopt the System, you are classified as `Digital`. The more you, and your Users, use the system, the higher the level of maturity - going from `Digital` to `Active` and then finally `Optimised`. You will be able to see the level of Digital Maturity not just on an overall basis, but also per Business Unit, alongside the percentage they are towards the next level of maturity for each of the relevant modules and a digital maturity score.
+ 
+The modules tracked via Digital Maturity are:
+
+- Inventory Management
+- Risk Management
+- Incident Management
+- Supplier Management
+- Document Management
+- Continual Improvement
+- Audits
+- Task Manager (TBD)
+ 
+
+As soon as a Business Unit has achieved `Optimised` status, they will receive certification. This will be automatically sent to the Super Admin as well as the Head(s) of Service of that Business Unit, as well as being made available in the Document Management module. This certification is proof of your successful digital maturity.
+
 ## Dashboard Report
 
 The Dashboard Report can be sent to your email in a format that is designed to be easily readable.
