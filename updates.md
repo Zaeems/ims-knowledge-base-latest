@@ -1,5 +1,16 @@
 <!-- <img class="version" src="/_media/ims-v.svg" alt="version" /> -->
 
+## V2.5.3 ( 11 May 2022 )
+
+### Added
+
+- Dashboard
+	- Digital maturity matrix has been added to the dashboard
+
+### Fixes
+
+- Minor spelling mistakes have been fixed
+
 ## V2.5.2
 
 ### Added
