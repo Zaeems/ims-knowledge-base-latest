@@ -1,6 +1,25 @@
 <!-- <img class="version" src="/_media/ims-v.svg" alt="version" /> -->
 
-## V2.5.3 ( 11 May 2022 )
+## v2.5.5
+
+### Fixes
+
+- Looping of comments has been fixed
+- Task Manager was going blank when a user was removed from the Business Unit
+- No longer able to accept/decline a completed task
+
+### Added
+
+- Error 404 page has been redesigned
+
+## V2.5.4 ( 11 May 2022 )
+
+### Added
+
+- Task Manager
+	- Filters' search query have been improved
+
+## V2.5.3
 
 ### Added
 
