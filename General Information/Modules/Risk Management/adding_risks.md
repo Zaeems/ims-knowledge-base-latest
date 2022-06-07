@@ -143,6 +143,18 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 # Risk Scoring
 
+<style>
+	.red {
+		color: red;
+	}
+	.amber {
+		color:  yellow;
+	}
+	.green {
+		color: green;
+	}
+</style>
+
 ### Likelihood Score
 
 | Likelihood Score 	| 1 	| 2 		| 3 		| 4 	 | 5 			  |
@@ -162,22 +174,22 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 ### Chart
 
-| Likelihood		|  				| 			|  Consequence	|			|					|
-|:------------------|:-------------:|:---------:|:-------------:|:---------:|:-----------------:|
-| 					|**Negligible**	| **Minor**	| **Moderate**	| **Major**	| **Catastrophic**	|
-|**Almost Certain**	| 5 			| 10 		| 15 			| 20 		| 25 				|
-|**Likely**    		| 4 			| 8  		| 12 			| 16 		| 20 				|
-|**Possible**  		| 3 			| 6  		| 9  			| 12 		| 15 				|
-|**Unlikely**		| 2 			| 4  		| 6  			| 8  		| 10 				|
-|**Rare**    		| 1 			| 2  		| 3  			| 4  		| 5  				|
+| Likelihood		|  								| 								|  Consequence					|								|								|
+|:------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
+| 					|**Negligible**					| **Minor**						| **Moderate**					| **Major**						| **Catastrophic**				|
+|**Almost Certain**	| <span class="green">5</span>	| <span class="amber">10</span>	| <span class="amber">15</span>	| <span class="red">20</span>	| <span class="red">25</span>	|
+|**Likely**    		| <span class="green">4</span> 	| <span class="green">8</span>	| <span class="amber">12</span>	| <span class="red">16</span>	| <span class="red">20</span> 	|
+|**Possible**  		| <span class="green">3</span> 	| <span class="green">6</span>	| <span class="green">9</span> 	| <span class="amber">12</span>	| <span class="amber">15</span>	|
+|**Unlikely**		| <span class="green">2</span> 	| <span class="green">4</span>	| <span class="green">6</span>  | <span class="green">8</span>  | <span class="amber">10</span>	|
+|**Rare**    		| <span class="green">1</span> 	| <span class="green">2</span>	| <span class="green">3</span>  | <span class="green">4</span>  | <span class="green">5</span>	|
 
 ### Criteria
 
-| Risk Rating	| Net Risk Assessment	| Risk Response	|
-|:-------------:|:---------------------:|:-------------:|
-| High		| 16 - 25	| Unacceptable level of risk exposure which requires action to be taken urgently. |
-| Medium	| 10 - 15	| Acceptable level of risk, but one which requires action and active monitoring to ensure risk exposure is reduced. |
-| Low 		| 1 - 9		| Acceptable level of risk based on the operation of normal controls. In some cases, it may be acceptable for no mitigating action to be taken. |
+| Risk Rating					| Net Risk Assessment	| Risk Response	|
+|:-----------------------------:|:---------------------:|:-------------:|
+| <span class="red">High</span>		| 16 - 25 | Unacceptable level of risk exposure which requires action to be taken urgently. |
+| <span class="amber">Medium</span>	| 10 - 15 | Acceptable level of risk, but one which requires action and active monitoring to ensure risk exposure is reduced. |
+| <span class="green">Low</span>	|  1 - 9  | Acceptable level of risk based on the operation of normal controls. In some cases, it may be acceptable for no mitigating action to be taken. |
 
 [Risks]: #managing-risks
 [Modifying a Risk]: #modifying-a-risk
