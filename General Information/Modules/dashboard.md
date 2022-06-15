@@ -1,4 +1,4 @@
-<iframe src="https://www.youtube-nocookie.com/embed/9nhEHg23Fqk?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/aQ6ccbewvgs?vq=hd1080&rel=0&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ---
 
@@ -7,6 +7,8 @@
 Get started by navigating to and clicking on the `Dashboard` button at the top of the `Sidebar`, which is on the left-hand side.
 
 The Dashboard is also the first screen you see upon logging in to your iMS account.
+
+<iframe src="https://www.youtube-nocookie.com/embed/9nhEHg23Fqk?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Graphs
 

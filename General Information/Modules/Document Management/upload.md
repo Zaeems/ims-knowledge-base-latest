@@ -2,7 +2,7 @@
 View Flowchart
 </a></p>
 
-<iframe src="https://www.youtube-nocookie.com/embed/RCgonvLYdHw?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/tWrcs-DRdr4?vq=hd1080&rel=0&color=white" width="448" height="252" allow="fullscreen" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -13,6 +13,8 @@ Get started by navigating to and clicking on the `Document Management` button on
 Once you have selected this you will be able to upload a document using the `Add document` tab.
 
 For more information on making amendments or modifications to your Document click [here][Documents]. **not yet made**
+
+<iframe src="https://www.youtube-nocookie.com/embed/RCgonvLYdHw?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Uploading a Document
 

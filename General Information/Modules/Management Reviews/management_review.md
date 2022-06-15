@@ -2,7 +2,7 @@
 View Flowchart
 </a></p>
 
-<iframe src="https://www.youtube-nocookie.com/embed/7EMohC1CkuI?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/pVOBL4nmBxs?vq=hd1080&rel=0&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ---
 
@@ -11,6 +11,8 @@ View Flowchart
 Get started by navigating to and clicking on the `Management Review` button on the `Sidebar`, which is on the left-hand side, then click on `Schedule`.
 
 For more information on making modifications or amendments to your Management Reviews click [here][Management Review].
+
+<iframe src="https://www.youtube-nocookie.com/embed/7EMohC1CkuI?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Creating a Management Review
 
@@ -65,13 +67,15 @@ This page shows a list of Internal Audits that have been completed.
 
 # KPIs/Objectives
 
-<iframe src="https://www.youtube-nocookie.com/embed/mvycNHbVDxY?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/1vbOrp1bjP0?vq=hd1080&rel=0&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ### Getting Started
 
 Get started by navigating to and clicking on the `Management Review` button on the `Sidebar`, which is on the left-hand side, then click on `KPI/Objectives`.
 
 For more information on making modifications or amendments to your KPIs click [here][KPI Action].
+
+<iframe src="https://www.youtube-nocookie.com/embed/mvycNHbVDxY?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Adding KPIs
 

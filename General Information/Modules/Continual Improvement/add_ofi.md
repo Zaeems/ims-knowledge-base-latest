@@ -2,7 +2,7 @@
 View Flowchart
 </a></p>
 
-<iframe src="https://www.youtube-nocookie.com/embed/zstGZxqPVHU?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/xu2JnEDgPcc?vq=hd1080&rel=0&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ---
 
@@ -11,6 +11,8 @@ View Flowchart
 Get started by navigating to and clicking on the `Continual Improvement` button on the `Sidebar`, which is on the left-hand side.
 
 For more information on making changes to OFIs click [here][OFI].
+
+<iframe src="https://www.youtube-nocookie.com/embed/zstGZxqPVHU?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Creating OFIs
 

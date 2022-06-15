@@ -1,3 +1,10 @@
+
+---
+
+<iframe src="https://www.youtube-nocookie.com/embed/l7FumAYlALM?vq=hd1080&rel=0&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+
+
+
 ## Sites
 
 CQC Sites provide an overview of your organisation's CQC compliance at a single glance. You can manage multiple sites from one system, although the visibility of the sites themselves, as well as the ability to send messages related to CQC within the system, will depend on the level of permission your account has access to.

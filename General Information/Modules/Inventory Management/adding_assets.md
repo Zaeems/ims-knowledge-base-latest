@@ -2,7 +2,7 @@
 View Flowchart
 </a></p>
 
-<iframe src="https://www.youtube-nocookie.com/embed/HzL1dcRxmt8?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/atLuUo-PsnU?vq=hd1080&rel=0&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ---
 
@@ -13,6 +13,8 @@ View Flowchart
 Get started by navigating to and clicking on the `Inventory` button on the `Sidebar`, which is on the left-hand side.
 
 For more information on making modifications or amendments to your assets click [here][Assets].
+
+<iframe src="https://www.youtube-nocookie.com/embed/HzL1dcRxmt8?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ### Categories
 

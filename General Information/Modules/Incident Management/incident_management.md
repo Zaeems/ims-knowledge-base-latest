@@ -2,7 +2,7 @@
 View Flowchart
 </a></p>
 
-<iframe src="https://www.youtube-nocookie.com/embed/k8IXz5Wfegk?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Hhgl5bjk-Pw?vq=hd1080&rel=0&color=white" width="448" height="252" allow="fullscreen" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -13,6 +13,8 @@ Get started by navigating to and clicking on the `Incident Management` button on
 Once you have selected this you will be able to raise an incident.
 
 For more information on making amendments or modifications to your Incidents click [here][Incidents].
+
+<iframe src="https://www.youtube-nocookie.com/embed/k8IXz5Wfegk?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Raising an Incident
 
