@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Product Updates](/#v252)
+* [Product Updates](/#v255)
 * [Configuration](intro)
 * [User Information and Accessibility](info)
 * [Roles & Permissions](permission)
