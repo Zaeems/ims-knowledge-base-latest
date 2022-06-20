@@ -1,16 +1,19 @@
 <!-- <img class="version" src="/_media/ims-v.svg" alt="version" /> -->
 
-## v2.5.5
+## V2.5.5 ( 17 June 2022 )
 
-### Fixes
+## Added
+- Error 404 page
+- ISO 15686-5
 
+## Changed
+- System defaults shifted under my organisation in drop down
+- Organisational dashboard report has been redesigned
+
+## Fixed
 - Looping of comments has been fixed
 - Task Manager was going blank when a user was removed from the Business Unit
 - No longer able to accept/decline a completed task
-
-### Added
-
-- Error 404 page has been redesigned
 
 ## V2.5.4 ( 11 May 2022 )
 
