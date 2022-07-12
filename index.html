@@ -13,7 +13,7 @@
     <meta name="Description" content="iMS Knowledge Base">
     <meta name="Keywords" content="iMS, integrated management system, Knowledge Base, ims knowledge base, ims systems, ims systems docs, ims systems documentation, ims systems knowledge base">
     <meta http-equiv="Content-Language" content="en">
-    <meta http-equiv="Expires" content="Wed, 01 May 2022 23:59:59 GMT">
+    <meta http-equiv="Expires" content="Wed, 31 August 2022 23:59:59 GMT">
     <meta name="Robots" content="NoIndex">
     <meta http-equiv="Pragma" content="Cache">
     <meta http-equiv="Content-Script-Type" content="text/javascript">
@@ -27,8 +27,21 @@
     <link rel="stylesheet" href="/custom.css"/>
   </head>
   <body>
+	<div id="loadOverlay" style="background-color:#091a28; position:absolute; top:0px; left:0px; width:100%; height:100%; z-index:2000;"></div>
+    <style>
+      @media (prefers-color-scheme: light) {
+        #loadOverlay {
+          background-color: #fff !important;
+        }
+      }
+    </style>
     <div id="app">
-      <!-- app -->
+	  <!-- darklight -->
+	  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js" type="text/javascript"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js" type="text/javascript"></script>
+	  <!-- end of darklight -->
+	  
+	  <!-- app -->
       <script>
         window.$docsify = {
           name: "iMS Knowledge Base", repo: "", logo: "https://raw.githubusercontent.com/Zaeems/iMS-User-Scripts/main/iMS_Dark_Mode.svg",
@@ -44,12 +57,13 @@
           },
         };
       </script>
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js" type="text/javascript"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js" type="text/javascript"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-      <!-- app -->
+	  <!-- end of app -->
+	  
+	  <!-- docsify -->
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+      <!-- end of docsify -->
     </div>
   </body>
 </html>
